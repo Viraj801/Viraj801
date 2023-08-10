@@ -1,52 +1,18 @@
-![logo](https://github.com/Viraj801/Logo_profile/blob/main/Viraj_Logo.jpg)
-<h1 align="center">Hi 👋 , I'm VIRAJ SINGH DANGI</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<!-- Greeting -->
+# Hi There! 👋
+##  About Me
+🎓 I am Viraj Singh Dangi, Full Stack Web Developer  .
 
-<img align="right" alt="coding" width="400"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9j42ohbcwrHfwsNnhEdMkyk6CyPWzHuyL0YC4lp-n&s">
+💪 I love learning new things and combining them with my other skill to build a project. I am now looking to apply my skills and knowledge to a bigger project and industry.
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=Viraj801&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Viraj801" /> </p>
-
-- 🔭 I’m currently working on [Humanoid Robot]((https://github.com/Viraj801)
-
-- 🌱 I’m currently learning *DotNet
-
-- 👨‍💻 All of my projects are available at (https://github.com/Viraj801)
-
-- 💬 Ask me about *python,Django,IOT,C#,Angular,DotNet*
-
-- 📫 How to reach me *virajdangi801@gmail.com*
-
-- ⚡ Fun fact *I Think I Am Funny*
-
+<hr>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/Viraj8016" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/
-twitter.svg"
-            alt="viraj" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/viraj-singh-dangi-b77ab2210" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/
-linked-in-alt.svg"
-            alt="VIRAJ SINGH DANGI" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/viraj.thakur.5817300" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/
-facebook.svg"
-            alt="VIRAJ SINGH DANGI" height="30" width="40" /></a>
-    <a href="https://instagram.com/_mr_viraj_01?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/
-instagram.svg"
-            alt="Virajsinghddangi" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/virajdangi999" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/
-hackerrank.svg"
-            alt="@Virajsinghdangi" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/@virajdangi999/@VIRAJ SINGH DANGI" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/
-hackerearth.svg"
-            alt="@VIRAJ SINGH DANGI" height="30" width="40" /></a>
+Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/viraj-singh-dangi-b77ab2210" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:virajdangi@mgail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Viraj801" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/personal%20website-eeeee4?&style=for-the-badge" /></a>
+  <a href="https://www.hackerrank.com/virajdangi999?hr_r=1 " target="_blank"><img alt="Medium" src="https://img.shields.io/badge/hacker%20rank-76b5c5?&style=for-the-badge" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
