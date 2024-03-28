@@ -11,7 +11,7 @@ Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/viraj-singh-dangi-b77ab2210" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:virajdangi@mgail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Viraj801" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/personal%20website-eeeee4?&style=for-the-badge" /></a>
+  <a href="https://viraj-dangi.github.io/Viraj_COde/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/personal%20website-eeeee4?&style=for-the-badge" /></a>
   <a href="https://www.hackerrank.com/virajdangi999?hr_r=1 " target="_blank"><img alt="Medium" src="https://img.shields.io/badge/hacker%20rank-76b5c5?&style=for-the-badge" /></a>
 </p>
 
